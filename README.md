@@ -1,6 +1,6 @@
   
 
-### <div align="center">I'm Rushad, a full-stack developer 👨‍💻 </div>  
+# <div align="center">I'm Rushad, a full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 Currently working on [Full Stack Food Delivery App](https://github.com/rush33/food-delivery)  
