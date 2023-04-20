@@ -78,15 +78,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush33&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+<br/>   
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cgcwf4j2qd34h5s0pgrt3p5nm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" /></div>  
 
