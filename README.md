@@ -6,10 +6,10 @@
 ### <div align="center">I'm Rushad, a full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Full Stack Food Delivery App](https://github.com/rush33/food-delivery)  
+- 🔭 Currently working on [Full Stack Food Delivery App](https://github.com/rush33/food-delivery)  
   
 
-- 🌱 I’m currently learning Data Structures and Algorithms  
+- 🌱 Currently learning Data Structures and Algorithms  
   
 
 - ❓ Looking for frontend developer roles in awesome startups!  
