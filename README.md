@@ -1,6 +1,6 @@
   
 
-# <div align="center">I'm Rushad, a full-stack developer 👨‍💻 </div>  
+# <div align="center">👋🏻 I'm Rushad, a full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 Currently working on [Full Stack Food Delivery App](https://github.com/rush33/food-delivery)  
@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 🤹🏻 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -61,7 +61,7 @@
 <br/>  
 
 
-## Connect with me  
+## 💓 Connect with me  
 <a href="https://github.com/rush33" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -73,13 +73,15 @@
 <br/>  
 
 
-## Github Stats  
+## ⚡ Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rush33&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush33&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>   
 
+
+## 🤨 My taste? 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cgcwf4j2qd34h5s0pgrt3p5nm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" /></div>  
 
 <br/>  
@@ -90,6 +92,7 @@
   
 
 <br/>  
+
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/rushad33" target="_blank" style="display: inline-block;">
