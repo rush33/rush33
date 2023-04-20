@@ -91,7 +91,9 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
+<div align="center">
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=cgcwf4j2qd34h5s0pgrt3p5nm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)  
+  </div>
 
 <br/>  
 
@@ -111,5 +113,3 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
