@@ -3,13 +3,13 @@
 # <div align="center">👋🏻 I'm Rushad, a full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 Currently working on [Full Stack Food Delivery App](https://github.com/rush33/food-delivery)  
+- 🔭 Currently working on [QuickMart](https://github.com/rush33/quickmart)  
   
 
-- 🌱 Currently learning Data Structures and Algorithms  
+- 🌱 Pursuing MCA
   
 
-- ❓ Looking for frontend developer roles in awesome startups!  
+- ❓ Looking for developer roles in awesome startups!  
   
 
 <br/>  
