@@ -3,7 +3,7 @@
 # <div align="center">👋🏻 I'm Rushad, a full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 Currently working on [QuickMart](https://github.com/rush33/quickmart)  
+- 🔭 Currently working on [NE Career Hub](https://github.com/rush33/necareerhub)  
   
 
 - 🌱 Pursuing MCA
